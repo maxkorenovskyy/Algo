@@ -1,0 +1,5 @@
+producer_1,200,6000,aaaa
+producer_2,150,12000,bbbb
+producer_3,220,5000,cccc
+producer_4,40,3500,dddd
+producer_5,500,8000,eeee
